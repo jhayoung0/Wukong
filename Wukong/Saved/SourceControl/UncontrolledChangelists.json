@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/JK/PLVU5S8SQSNXS48CNC8YZH.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_Light.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Characters/Player/BP_Player.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_anim_special_Montageanim_special_Montage.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/Stun_Start.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_Heavy.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_damage.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RMB_Evade_Start_Loop_CC.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/P_Wukong_Future_Poke_Impact.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/P_Wukong_Future_DJE_CloudBurst.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/rta_jumproll_rerta_jumproll.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_anim_special_Montageanim_special.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Characters/Enemy/BP_HB.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/RTA_BackTrun.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_backJumpanim_InPlace_Jump_L.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_backJumpanim_InPlace_Jump_L_Montage.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_SpinningSpinning_Anim.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/RTA_SpinningSpinning_Anim_Montage.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/Jump_Pad.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/P_Wukong_Future_DJE_CloudBurst.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/P_Wukong_Future_Poke_Impact.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/Q_Flip_Bwd.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/RMB_Evade_Start_Loop_CC.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/RTA_damage.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/RTA_Heavy.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/Wukong/Attack/Stun_Start.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/p_CloudBurst.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/rta_jumproll.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/Q_Flip_Bwd.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/Asset/Player/RtaAnimation/Jump_Pad.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/5R/RC6B3SRPKC2GXKAPS9O9DC.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/41/FYD7D02RY3CNN1WT85YBHD.uasset",
+				"C:/Users/user/Desktop/Fork/Wukong2/Wukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/KO/PA4S490XHK0U12JR1J7G7A.uasset"
+			]
+		}
+	]
+}
