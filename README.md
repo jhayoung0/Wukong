@@ -1,28 +1,55 @@
-# [검은신화: 오공 호선봉 보스전 모작 프로젝트]
+# [검은신화: 오공 호선봉 보스전 모작 프로젝트] 
+**UE5 게임 개발 역량 향상을 위한 보스전 시스템 모작 프로젝트**
+
+<div align="left" style="width:100%">
 
 <div align="center">
-
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-5-blue?style=for-the-badge&logo=unrealengine&logoColor=white)
-<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br>![Blueprint](https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white)
-<br>![Development](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-**UE5 게임 개발 역량 향상을 위한 보스전 시스템 모작 프로젝트**
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5-blue?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Git%20LFS-77216F?style=for-the-badge&logo=gitlfs&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Fork%20Client-303030?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 </div>
 
 ---
 
 ## ✓ Project Overview
+<div align="center">
 
-```yaml
-Project Name: 검은신화: 오공 호선봉 보스전 모작
-Duration: 2025.07.07 - 2025.08.01 (25 days)
-Team Size: 2 developers
-Engine: Unreal Engine 5
-Version Control: Git-based collaborative workflow
-Goal: Boss battle system recreation & team collaboration skills
-```
+<table border="0" cellspacing="0" cellpadding="8" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 20%; padding: 8px;"><strong>Project Name</strong></td>
+    <td style="padding: 8px;">검은신화: 오공 호선봉 보스전 모작</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Duration</strong></td>
+    <td style="padding: 8px;">2025.07.07 - 2025.08.01 (25 days)</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Team Size</strong></td>
+    <td style="padding: 8px;">2 developers</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Engine</strong></td>
+    <td style="padding: 8px;">Unreal Engine 5</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Version Control</strong></td>
+    <td style="padding: 8px;">Git-based collaborative workflow</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Goal</strong></td>
+    <td style="padding: 8px;">Boss battle system recreation & team collaboration skills</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><strong>Purpose</strong></td>
+    <td style="padding: 8px;">UE5 게임 개발 역량 향상을 위한 보스전 시스템 모작 프로젝트</td>
+  </tr>
+</table>
+
+</div>
 
 ## ✓ Team & Role Distribution
 
@@ -62,16 +89,13 @@ graph LR
 ## ✓ 최종 결과물
 - 문서: https://cafe.naver.com/f-e/cafes/29357654/articles/32077?boardtype=L&menuid=64&referrerAllArticles=false
 - 원작: https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
-<table>
+<table align="center" border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="add/오공.gif" alt="최종결과물" width="200"/><br>
+    <td align="center">
+      <img src="add/오공.gif" alt="최종결과물" width="600"/><br>
     </td>
   </tr>
 </table>
-
-
-
 
 ## ✓ KPT 회고
 <table border="1" cellspacing="0" cellpadding="8">
