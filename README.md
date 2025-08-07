@@ -1,16 +1,12 @@
 # [검은신화: 오공 호선봉 보스전 모작 프로젝트] 
-**UE5 게임 개발 역량 향상을 위한 보스전 시스템 모작 프로젝트**
-
 <div align="left" style="width:100%">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5-blue?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Git%20LFS-77216F?style=for-the-badge&logo=gitlfs&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Fork%20Client-303030?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
+  <div align="center">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-5-blue?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Git%20LFS-77216F?style=for-the-badge&logo=gitlfs&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Fork%20Client-303030?style=for-the-badge&logo=git&logoColor=white">
+  </div>
 </div>
 
 ---
