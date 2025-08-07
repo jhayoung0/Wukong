@@ -29,12 +29,12 @@ Goal: Boss battle system recreation & team collaboration skills
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="add/Oh.png" width="80"/>
+<img src="add/Oh.png" width="150"/>
 <br><strong>조은정</strong><br>
 <code>[오공]</code>
 </td>
 <td align="center" width="50%">
-<img src="add/Hoo.png" width="80"/>
+<img src="add/Hoo.png" width="150"/>
 <br><strong>정하영</strong><br>
 <code>[호선봉]</code>
 </td>
