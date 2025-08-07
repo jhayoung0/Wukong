@@ -62,6 +62,16 @@ graph LR
 ## ✓ 최종 결과물
 - 문서: https://cafe.naver.com/f-e/cafes/29357654/articles/32077?boardtype=L&menuid=64&referrerAllArticles=false
 - 원작: https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="add/wukong.gif" alt="최종결과물" width="200"/><br>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## ✓ KPT 회고
 <table border="1" cellspacing="0" cellpadding="8">
