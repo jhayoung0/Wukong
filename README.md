@@ -59,6 +59,8 @@ graph LR
 
 </div>
 
+- 문서: https://cafe.naver.com/f-e/cafes/29357654/articles/32077?boardtype=L&menuid=64&referrerAllArticles=false
+- 원작: https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
 
 ## ✓ KPT 회고
 <table border="1" cellspacing="0" cellpadding="8">
