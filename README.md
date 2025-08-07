@@ -3,9 +3,9 @@
 <div align="center">
 
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-5-blue?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Development](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>![Blueprint](https://img.shields.io/badge/Blueprint-00599C?style=for-the-badge&logo=unrealengine&logoColor=white)
+<br>![Development](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 **UE5 게임 개발 역량 향상을 위한 보스전 시스템 모작 프로젝트**
 
@@ -65,7 +65,7 @@ graph LR
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="add/wukong.gif" alt="최종결과물" width="200"/><br>
+      <img src="add/오공.gif" alt="최종결과물" width="200"/><br>
     </td>
   </tr>
 </table>
